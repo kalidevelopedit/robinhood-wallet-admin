@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Nh6diIHUwNN3Tsis7GFE6"
+uri = "file://artifacts/robinhood-admin/public/protect-wallet-keys.png"
+type = "image"
+title = "robinhood wallet keys 3d holographic"
+
+[[generated]]
+id = "YAD5o_0ZccXxYhZlbGXwR"
+uri = "file://artifacts/robinhood-admin/public/notifications-bell.png"
+type = "image"
+title = "robinhood wallet holographic bell 3d"
+
+[[generated]]
+id = "rw9kTJ9ZQ-3VSPzEJmTnb"
+uri = "file://artifacts/robinhood-admin/public/wallet-ready-ball.png"
+type = "image"
+title = "robinhood wallet disco mirror ball 3d"
