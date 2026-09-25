@@ -1,0 +1,1 @@
+- [GitHub asset syncing](github-asset-syncing.md) — use the connected proxy from the workspace for exact large-file uploads; sandbox output may truncate binary encodings.
